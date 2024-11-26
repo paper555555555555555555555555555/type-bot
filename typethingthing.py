@@ -10,7 +10,6 @@ def type_phrase():
 # change keyboard .wait to a shortcut you want to use when you start the bot
 keyboard.wait("ctrl+shift+?")
 
-# Start typing the phrase
 type_phrase()
 
 
